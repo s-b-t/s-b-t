@@ -10,11 +10,14 @@ I am an aspiring full stack developer that really enjoys the creative side of co
 📚 I’m currently learning the full stack of MERN at Coding Dojo.
 
 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/stevenblaketobias/"<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="sblaket@gmail.com"<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/stevenblaketobias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="sblaket@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 🥁  Fun Fact: I play/write drums for a band by the name of Magnasana! You can find us on any platform. 
 
-🎶  Here's the links to Spotify and SoundCloud: <a href="https://open.spotify.com/artist/3GtF5qiQuaUmmPR82fV9No?si=Cg9O7bvkR_-ld3DCx7syrA"<img src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a> <a href="https://soundcloud.com/search?q=magnasana"<img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
+🎶  Here's the links to Spotify and SoundCloud: 
+
+<a href="https://open.spotify.com/artist/3GtF5qiQuaUmmPR82fV9No?si=Cg9O7bvkR_-ld3DCx7syrA"><img src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a> <a href="https://soundcloud.com/search?q=magnasana"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
 
 
 💻 Technologies I work with: 
