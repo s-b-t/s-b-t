@@ -11,7 +11,7 @@ I am an aspiring full stack developer that really enjoys the creative side of co
 
 📫 How to reach me: 
 
-<a href="https://www.linkedin.com/in/stevenblaketobias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="sblaket@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/stevenblaketobias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:sblaket@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 🥁  Fun Fact: I play/write drums for a band by the name of Magnasana! You can find us on any platform. 
 
