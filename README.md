@@ -5,7 +5,7 @@
 I am an aspiring full stack developer that really enjoys the creative side of coding/web development. Previously, my background was in Sales and I discovered that I needed a major career change, so here I am! Currently, I am enrolled in a full-time education platform by the name of Coding Dojo which takes up 60+ hours of my time per week. My intent is to learn the life-long skill of coding and become a full stack engineer.
 
 
-📁 I’m currently working on how to utilize Express via MERN.
+📁 I’m currently working on how to utilize MongoDB via MERN.
 
 📚 I’m currently learning the full stack of MERN at Coding Dojo.
 
