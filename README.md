@@ -9,7 +9,7 @@ I am an aspiring full stack developer that really enjoys the creative side of co
 
 📚 I’m currently learning the full stack of MERN at Coding Dojo.
 
-🥁  Fun Fact: I play/write drums for a band by the name of Magnasana! You can find us on any platform. 
+🥁  Fun Fact: I play/write drums in the band, Magnasana! You can find us on any platform. 
 
 🎶  Here's the links to Spotify and SoundCloud: 
 
