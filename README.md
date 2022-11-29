@@ -55,6 +55,12 @@ I am an aspiring full stack developer that really enjoys the creative side of co
 <a href="https://www.json.org/json-en.html">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</a>
 
 📫 How to reach me: 
 
