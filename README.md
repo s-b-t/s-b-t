@@ -7,7 +7,7 @@ I am an aspiring full stack developer that really enjoys the creative side of co
 
 📁 I’m currently working on my second week of learning C#.
 
-📚 I’m currently learning C#, .NET, ASP.NET, and Entity Framework Core at Coding Dojo.
+📚 I’m currently learning/utilizing C#, .NET, ASP.NET, LINQ, and Entity Framework Core at Coding Dojo.
 
 🥁  Fun Fact: I play/write drums in the band, Magnasana! You can find us on any platform. 
 
