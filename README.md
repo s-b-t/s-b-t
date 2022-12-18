@@ -5,9 +5,9 @@
 I am an aspiring full stack developer that really enjoys the creative side of coding/web development. Previously, my background was in Sales and I discovered that I needed a major career change, so here I am! Currently, I am enrolled in a full-time education platform by the name of Coding Dojo which takes up 60+ hours of my time per week. My intent is to learn the life-long skill of coding and become a full stack engineer.
 
 
-📁 I’m currently working on my second week of C# at Coding Dojo.
+📁 I’m currently working on finalizing C# at Coding Dojo.
 
-📚 I’m currently learning/utilizing C#, .NET, ASP.NET, LINQ, and Entity Framework Core at Coding Dojo.
+📚 I’m currently learning/utilizing full CRUD functionality with one-to-many and many-to-many relationships via Entity Framework Core in C# getting ready to take my final exam.
 
 🥁  Fun Fact: I play/write drums in the band, Magnasana! You can find us on any platform. 
 
