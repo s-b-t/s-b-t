@@ -2,16 +2,16 @@
 
 👋🏼 Hello, I'm Steve.
 
-I am an aspiring full stack developer that really enjoys the creative side of coding/web development. Previously, my background was in Sales and I discovered that I needed a major career change, so here I am! Currently, I am enrolled in a full-time education platform by the name of Coding Dojo which takes up 60+ hours of my time per week. My intent is to learn the life-long skill of coding and become a full stack engineer.
+I am an aspiring full stack developer that really enjoys the creative side of coding/web development. Previously, my background was in Sales and I discovered that I needed a major career change, so here I am! I have recently graduated a full-time education platform by the name of Coding Dojo which took up 60+ hours of my time per week. My intent is to continue learning the life-long skill of coding and become a full stack engineer.
 
 
-📁 I’m currently working on finalizing C# at Coding Dojo.
+📁 I’m currently working on individual/group projects to hone my skills even further.
 
-📚 I’m currently learning/utilizing full CRUD functionality with one-to-many and many-to-many relationships via Entity Framework Core in C# getting ready to take my final exam.
+📚 I have recently graduated Coding Dojo with a Certificate of Achievement for completing their Full-Time Software Development program and 560 clock hours of coding in HTML, CSS, JavaScript, Python, MERN, and C#.
 
-🥁  Fun Fact: I play/write drums in the band, Magnasana! You can find us on any platform. 
+🥁 Fun Fact: I play/write drums in the band, Magnasana! You can find us on any platform. 
 
-🎶  Here's the links to Spotify and SoundCloud: 
+🎶 Here's the links to Spotify and SoundCloud: 
 
 <a href="https://open.spotify.com/artist/3GtF5qiQuaUmmPR82fV9No?si=Cg9O7bvkR_-ld3DCx7syrA"><img src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a> <a href="https://soundcloud.com/search?q=magnasana"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
 
