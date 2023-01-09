@@ -66,7 +66,7 @@ I am an aspiring full stack developer that really enjoys the creative side of co
 
 <a href="https://www.linkedin.com/in/stevenblaketobias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:sblaket@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-b-t" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-b-t&layout=compact" />
 
 
 
