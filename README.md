@@ -1,13 +1,10 @@
 ### Welcome to my GitHub Profile!
 
-👋🏼 Hello, I'm Steve.
-
-I am an aspiring full stack developer that really enjoys the creative side of coding/web development. Previously, my background was in Sales and I discovered that I needed a major career change, so here I am! I have recently graduated a full-time education platform by the name of Coding Dojo which took up 60+ hours of my time per week. My intent is to continue learning the life-long skill of coding and become a full stack engineer.
-
+👋🏼 Hello, I'm Steve. My intent is to continue learning the life-long skill of coding.
 
 📁 I’m currently working on individual/group projects to hone my skills even further.
 
-🎓 I have recently graduated Coding Dojo with a Certificate of Achievement for completing their Full-Time Software Development program and 560 clock hours of coding in HTML, CSS, JavaScript, Python, MERN, and C#.
+🎓 I graduated Coding Dojo with a Certificate of Achievement for completing their Full-Time Software Development program and 560 clock hours of coding in HTML, CSS, JavaScript, Python, MERN, and C#.
 
 🥁 Fun Fact: I play/write drums in the band, Magnasana! You can find us on any platform. 
 
