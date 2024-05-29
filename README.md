@@ -2,7 +2,7 @@
 
 👋🏼 Hello, I'm Steve. My intent is to continue learning the life-long skill of coding.
 
-📁 I’m currently working on individual/group projects to hone my skills even further.
+📁 I’m currently working on individual projects to hone my skills even further.
 
 🎓 I graduated Coding Dojo with a Certificate of Achievement for completing their Full-Time Software Development program and 560 clock hours of coding in HTML, CSS, JavaScript, Python, MERN, and C#.
 
