@@ -58,6 +58,9 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </a>
+<a href="https://openai.com">
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
+</a>
 
 📫 How to reach me: 
 
