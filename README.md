@@ -61,6 +61,9 @@
 <a href="https://openai.com">
   <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
 </a>
+<a href="">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+</a>
 
 📫 How to reach me: 
 
