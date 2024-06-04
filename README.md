@@ -10,7 +10,7 @@
 
 🎶 Here's the links to Spotify and SoundCloud: 
 
-<a href="https://open.spotify.com/artist/3GtF5qiQuaUmmPR82fV9No?si=Cg9O7bvkR_-ld3DCx7syrA"><img src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a> <a href="https://soundcloud.com/search?q=magnasana"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
+<a href="https://open.spotify.com/artist/3GtF5qiQuaUmmPR82fV9No?si=Cg9O7bvkR_-ld3DCx7syrA"><img src ="[https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)" /></a> <a href="https://soundcloud.com/search?q=magnasana"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
 
 💻 Technologies I work with: 
 
