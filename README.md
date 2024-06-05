@@ -37,6 +37,9 @@
 <a href="">
   <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" />
 </a>
+<a href="">
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </a> 
