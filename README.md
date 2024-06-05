@@ -33,7 +33,10 @@
 </a> 
 <a href="https://www.python.org/doc/">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
-</a> 
+</a>
+<a href="">
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" />
+</a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </a> 
