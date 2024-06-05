@@ -10,7 +10,7 @@
 
 🎶 Here's the links to Spotify and SoundCloud: 
 
-<a href="https://open.spotify.com/artist/3GtF5qiQuaUmmPR82fV9No?si=Cg9O7bvkR_-ld3DCx7syrA"><img src ="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white" /></a> <a href="https://soundcloud.com/search?q=magnasana"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
+<a href="https://open.spotify.com/artist/3GtF5qiQuaUmmPR82fV9No?si=Cg9O7bvkR_-ld3DCx7syrA"><img src ="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white" /></a><a href="https://soundcloud.com/search?q=magnasana"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
 
 💻 Technologies I work with: 
 
@@ -18,7 +18,7 @@
 
 📫 How to reach me: 
 
-<a href="https://www.linkedin.com/in/stevenblaketobias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:sblaket@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/stevenblaketobias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:sblaket@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-b-t&layout=compact" />
 
