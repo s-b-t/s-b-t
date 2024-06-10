@@ -1,4 +1,4 @@
-### Welcome to my GitHub Profile!
+### Welcome to my GitHub!
 
 👋🏼 Hello, I'm Steve. My intent is to continue learning the life-long skill of coding.
 
