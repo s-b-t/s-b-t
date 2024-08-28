@@ -1,6 +1,6 @@
 ### Welcome to my GitHub!
 
-👋🏼 Hello, I'm Steve. My intent is to continue learning the life-long skill of coding.
+👋🏼 Hello, I'm Steve. My intent is to continue learning the life-long skill of coding. I've always considered myself an artist whether that's through playing/writing music, drawing, or crafting with my hands. Coding falls into this category for me as I've always enjoyed being a creative person. Digital art and aesthetically pleasing ideas that have user-friendly functionality has been a main focus for me as a programmer.
 
 📁 I’m currently working on individual projects to hone my skills even further.
 
