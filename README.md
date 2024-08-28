@@ -4,7 +4,7 @@
 
 📁 I’m currently working on individual projects to hone my skills even further.
 
-🎓 I graduated Coding Dojo with a Certificate of Achievement for completing their Full-Time Software Development program and 560 clock hours of coding in HTML, CSS, JavaScript, Python, MERN, and C#.
+🎓 I graduated Coding Dojo with a Certificate of Achievement for completing their Full-Time Software Development program and 560 clock hours of coding in HTML, CSS, JavaScript, Python, MERN, and C#. Currently, I am taking Harvard's main CS50 course as well as their Python CS50 course for free on YouTube via freeCodeCamp. Simultaneously, I am also enrolled in the Python Developer course via Mimo.org.
 
 🥁 Fun Fact: I play/write drums in the band, Magnasana! You can find us on any platform. 
 
